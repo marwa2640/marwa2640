@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Marwa Ahmed 👋
 
-<!--
-**marwa2640/marwa2640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student passionate about Programming, Data Engineering, and Artificial Intelligence.  
+I enjoy learning how to work with data and building systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Data Analysis
+- SQL
+- Data Cleaning
+- Data Pipelines
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Currently Learning
+- Data Engineering
+- Artificial Intelligence
+- Data Structures and Algorithms
+
+## 💻 Projects
+- Student Data Pipeline
+- Web Data Collection Pipeline
+- Data Cleaning Pipeline
+
+## 🎯 Goals
+My goal is to become a Data Engineer and build intelligent systems that help solve real-world challenges in areas like healthcare and education.
+
+## 📫 Connect with Me
+- GitHub: https://github.com/marwa2640
