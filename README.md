@@ -1,15 +1,14 @@
 # Hi, I'm Marwa Ahmed 👋
 
-I am a student passionate about Programming, Data Engineering, and Artificial Intelligence.  
-I enjoy learning how to work with data and building systems that solve real-world problems.
+I am a passionate student of Programming and Computer Science & Engineering (CSE), continuously seeking to expand my knowledge in developing intelligent systems and solving complex problems. I enjoy working on projects that demand logical thinking and the practical application of computational concepts.
 
 ## 🚀 Skills
 - Python
-- Data Analysis
 - SQL
-- Data Cleaning
-- Data Pipelines
 - Problem Solving
+- Data Structures 
+- Algorithms
+  
 
 ## 📊 Currently Learning
 - Data Engineering
