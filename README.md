@@ -11,17 +11,19 @@ I am a passionate student of Programming and Computer Science & Engineering (CSE
   
 
 ## 📊 Currently Learning
-- Data Engineering
+-Computer Science Fundamentals
+- Web Development
 - Artificial Intelligence
 - Data Structures and Algorithms
 
 ## 💻 Projects
+- Quiz Game
+- To-Do List
 - Student Data Pipeline
 - Web Data Collection Pipeline
-- Data Cleaning Pipeline
 
 ## 🎯 Goals
-My goal is to become a Data Engineer and build intelligent systems that help solve real-world challenges in areas like healthcare and education.
+My goal is to become a distinguished Software Engineer, contributing to the creation of innovative and intelligent technological solutions that address real-world challenges across various domains.
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/marwa2640
